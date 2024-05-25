@@ -1,3 +1,4 @@
+## Just. Add Korean. Nothing more.
 [![](http://img.shields.io/discord/833693644501286993?label=Discord&style=flat&logo=discord)](https://discord.gg/uueEqzwCJJ)
 
 <div align="center">
