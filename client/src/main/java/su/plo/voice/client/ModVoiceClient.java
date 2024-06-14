@@ -72,7 +72,7 @@ public final class ModVoiceClient extends BaseVoiceClient
     public static final KeyMapping MENU_KEY = new KeyMapping(
             "key.plasmovoice.settings",
             InputConstants.Type.KEYSYM,
-            UKeyboard.KEY_V,
+            UKeyboard.KEY_MENU,
             "Plasmo Voice"
     );
 
